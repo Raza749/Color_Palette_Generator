@@ -1,6 +1,6 @@
 
 
-alert("Please Scroll Down To Get Random Color Generator Button");
+alert("Please Scroll Down To Get Random Color Generator Button in Moblie Device.");
 
 // Let's Start Our JavaScript 
 
